@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+.website {
+    margin: 0px auto;
+    text-align: center;
+}
+
+body {
+    margin: 0px 250px;
+    resize: horizontal;
+    overflow: auto;
+    min-width: fit-content;
+}
+
+.blue {
+    background-color: #2d5dcc;
+    border: 1px solid grey;
+    color: white;
+    margin: 20px;
+    width: 400px;
+}
+
+.pink {
+    background-color: #d957d9;
+    border: 1px solid grey;
+    color: white;
+    margin: 20px;
+    width: 400px;
+}
+
+.green {
+    background-color: #4fe0b0;
+    border: 1px solid grey;
+    color: white;
+    margin: 20px;
+    width: 400px;
+}
+
+.biege{
+    background-color: #efd9ca;
+    border: 1px solid grey;
+    color: white;
+    margin: 20px;
+    width: 400px;
+    height: fit-content;
+    text-align: center;
+}
+
+.fonts-all {
+    display: table;
+
+}
+
+
+.colors {
+    text-align: center;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.fonts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.source{
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.sans{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 100px;
+}
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+.text-styles {
+    margin: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.font-styles {
+    margin: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.color-styles {
+    margin: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.font-heading {
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: small;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.normal {
+    font-style: normal;
+}
