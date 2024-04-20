@@ -19,31 +19,31 @@ body {
     border: 1px solid grey;
     color: white;
     margin: 20px;
-    width: 400px;
+    width: 550px;
 }
 
 .pink {
     background-color: #d957d9;
     border: 1px solid grey;
-    color: white;
+    color: black;
     margin: 20px;
-    width: 400px;
+    width: 550px;
 }
 
 .green {
     background-color: #4fe0b0;
     border: 1px solid grey;
-    color: white;
+    color: black;
     margin: 20px;
-    width: 400px;
+    width: 550px;
 }
 
 .biege{
     background-color: #efd9ca;
     border: 1px solid grey;
-    color: white;
+    color: black;
     margin: 20px;
-    width: 400px;
+    width: 550px;
     height: fit-content;
     text-align: center;
 }
